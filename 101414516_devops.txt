@@ -1,1 +1,2 @@
 "COMP 3104 DevOps course teaches the integration of development and operations teams." 
+"Topics include CI/CD pipelines, version control, and cloud-based deployments." 
