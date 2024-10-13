@@ -1,2 +1,3 @@
 "DevOps is crucial in modern SDLC as it ensures smooth collaboration between dev and ops teams." 
 "By using DevOps practices, organizations achieve faster releases and better quality control." 
+"Learning DevOps early provides future-proof skills for software engineers." 
