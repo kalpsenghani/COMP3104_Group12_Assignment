@@ -1,0 +1,1 @@
+COMP 3104 is a DevOps course that focuses on continuous integration and deployment practices, helping students understand the full software lifecycle.
